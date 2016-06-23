@@ -1,0 +1,10 @@
+{
+  "credentials":"aaa:bbb",
+  "sourceFile":"./mid-2014-lsoa-mf.json",
+  "dataPath": "mydata.jsondata",
+  "basedOnSchema": "LsoaPoplet",
+  "targetFolder": "HkekglmJf",
+  "upsertMode": false,
+  "schema": {},
+  "primaryKey": ["area_id", "age_band", "gender", "year"]
+}
